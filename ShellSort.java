@@ -26,6 +26,4 @@ int increment = array.length / 2;
 			System.out.print(array[i] + " ");
 		}
 	}
-}        
-		
-      
+}    
